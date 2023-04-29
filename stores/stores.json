@@ -1,0 +1,48 @@
+{
+    "Walmart": {
+        "lat": 40.9127361707846, 
+        "lng": -73.85685163811387,
+        "products": [
+            {
+                "name": "U.S. Polo Assn. Men's Performance Pique Polo",
+                "description": "Get a pulled-together casual look with the U.S. Polo Assn. Men's Performance Pique Polo.",
+                "category": "Fashion",
+                "price": 17.00,
+                "quantity": 5,
+                "image": "https://i5.walmartimages.com/asr/ba6d893a-3642-4259-b9e1-ccabb65045a3.cb250697d934ca0dc0cff083608a8b2a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            },
+            {
+                "name": "Wrangler Men's Short Sleeve Western Shirt",
+                "description": "Whether you are at work or a night out on the town, you’ll be doing it in style in this short sleeve western shirt from Wrangler.",
+                "category": "Fashion",
+                "price": 18.98,
+                "quantity": 4,
+                "image": "https://i5.walmartimages.com/asr/0fe5d851-78e8-4313-8db7-ef4546817b5b.186abf70e8c8569ce5e53a9705e6425a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            },
+            {
+                "name": "Time and Tru Women's Knit Maxi Dress",
+                "description": "The maxi dress, it's a style slam dunk. Nothing beats the effortless feel and polished look of this slip-it-on-and-go dress",
+                "category": "Fashion",
+                "price": 11.00,
+                "quantity": 12,
+                "image": "https://i5.walmartimages.com/asr/ecb52b04-10c2-4dec-a17a-06f18c5b87ba.81e75a1650e2fa59645eb756e0117537.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            },
+            {
+                "name": "LEGO City Great Vehicles Penguin Slushy Van Truck Toy",
+                "description": "Bring a fun summer vibe to kids play with the LEGO City Penguin Slushy Van (60384) building toy.",
+                "category": "Toys",
+                "price": 15.99,
+                "quantity": 12,
+                "image": "https://i5.walmartimages.com/asr/1229735c-68d3-4077-a8ba-70215b6d90c7.c777aa9eb3ac78abd71e24e3ef860e49.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            },
+            {
+                "name": "Fisher-Price Laugh & Learn Smart Stages Sis Musical Plush Toy for Infants and Toddlers",
+                "description": "The Laugh & Learn Smart Stages Sis musical plush toy from Fisher-Price is soft, cuddly, and ready to be your baby’s first best friend.",
+                "category": "Toys",
+                "price": 14.97,
+                "quantity": 0,
+                "image": "https://i5.walmartimages.com/asr/49c96091-fbec-439f-9107-026be670ba73.fe61a794f9e6000732f74a9273adad4e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            }
+        ]
+    }
+}
