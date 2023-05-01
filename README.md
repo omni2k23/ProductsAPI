@@ -15,7 +15,7 @@ GMAP_API=key
 You need this so the service can access the database.
 ## Run the app
 
-    python manage.py runserver
+    python manage.py runserver 0.0.0.0:8000
 
 # REST API
 

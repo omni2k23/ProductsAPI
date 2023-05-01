@@ -4,45 +4,46 @@
         "lng": -73.85685163811387,
         "products": [
             {
-                "name": "U.S. Polo Assn. Men's Performance Pique Polo",
-                "description": "Get a pulled-together casual look with the U.S. Polo Assn. Men's Performance Pique Polo.",
-                "category": "Fashion",
-                "price": 17.00,
+                "name": "DualSense Wireless Controller",
+                "description": "",
+                "category": "Electronics",
+                "price": 69.99,
                 "quantity": 5,
-                "image": "https://i5.walmartimages.com/asr/ba6d893a-3642-4259-b9e1-ccabb65045a3.cb250697d934ca0dc0cff083608a8b2a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81p3pqhCrBm4zrv87EKNo2uthdDyuDQH18nm2rUgswXVfg1mrdB-6-QJNqvQEr3MvhoYqulw7xYe8kC_bNFjhZbgEuJK5Q=s2560"
             },
             {
-                "name": "Wrangler Men's Short Sleeve Western Shirt",
-                "description": "Whether you are at work or a night out on the town, you’ll be doing it in style in this short sleeve western shirt from Wrangler.",
-                "category": "Fashion",
-                "price": 18.98,
-                "quantity": 4,
-                "image": "https://i5.walmartimages.com/asr/0fe5d851-78e8-4313-8db7-ef4546817b5b.186abf70e8c8569ce5e53a9705e6425a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                "name": "DualSense Charging Station",
+                "description": "",
+                "category": "Electronics",
+                "price": 29.99,
+                "quantity": 5,
+                "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81omGMyVLZfSN4jn_CKVt05j5W4mv5r942Y6GUPXFeMqTkG-upby2H7x5qZ1yG4JqOloXdXdDEaCdnM8H6Dh7mKft2DP=s2560"
             },
             {
-                "name": "Time and Tru Women's Knit Maxi Dress",
-                "description": "The maxi dress, it's a style slam dunk. Nothing beats the effortless feel and polished look of this slip-it-on-and-go dress",
-                "category": "Fashion",
-                "price": 11.00,
-                "quantity": 12,
-                "image": "https://i5.walmartimages.com/asr/ecb52b04-10c2-4dec-a17a-06f18c5b87ba.81e75a1650e2fa59645eb756e0117537.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                "name": "PULSE 3D Wireless Headset",
+                "description": "",
+                "category": "Electronics",
+                "price": 99.99,
+                "quantity": 5,
+                "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9La9Y_G9Uo-IAawgziIVa6Jy7KE_M4hjKOy_PX5kj1j9fe19JD05nCcq-JSZNNvvDdElt2OqpBk__hoghy-x6EN3kRw=s2560"
             },
             {
-                "name": "LEGO City Great Vehicles Penguin Slushy Van Truck Toy",
-                "description": "Bring a fun summer vibe to kids play with the LEGO City Penguin Slushy Van (60384) building toy.",
-                "category": "Toys",
-                "price": 15.99,
-                "quantity": 12,
-                "image": "https://i5.walmartimages.com/asr/1229735c-68d3-4077-a8ba-70215b6d90c7.c777aa9eb3ac78abd71e24e3ef860e49.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                "name": "Playstation 5 Camera",
+                "description": "",
+                "category": "Electronics",
+                "price": 44.99,
+                "quantity": 5,
+                "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rMirEO0vgNmrFYp24wwbOxpmpVNTRlPmcet3gAJ5AweT6ue3E-VQMj_x9CAO9CCznJEMHHajUwcaMBzqcH03P4mAC4vg=s2560"
             },
             {
-                "name": "Fisher-Price Laugh & Learn Smart Stages Sis Musical Plush Toy for Infants and Toddlers",
-                "description": "The Laugh & Learn Smart Stages Sis musical plush toy from Fisher-Price is soft, cuddly, and ready to be your baby’s first best friend.",
-                "category": "Toys",
-                "price": 14.97,
-                "quantity": 0,
-                "image": "https://i5.walmartimages.com/asr/49c96091-fbec-439f-9107-026be670ba73.fe61a794f9e6000732f74a9273adad4e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                "name": "Playstation 5 Camera",
+                "description": "",
+                "category": "Electronics",
+                "price": 24.99,
+                "quantity": 5,
+                "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qLtCMj1PxjxlMlnQTF9ZHVNUyMYfGzIiygmurFPa6tieMLV7BbHsr2KCmHhbBp_6M7ensyM6FwJK8oabBC_TZ2j28apg=s2560"
             }
+
         ]
     }
 }
