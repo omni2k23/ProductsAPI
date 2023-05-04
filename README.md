@@ -12,7 +12,6 @@ Create a `.env` file in `views/` and add the following environment variables
 GMAP_API=key
 ````
 
-You need this so the service can access the database.
 ## Run the app
 
     python manage.py runserver 0.0.0.0:8000

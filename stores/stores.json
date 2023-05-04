@@ -4,6 +4,7 @@
         "lng": -73.85685163811387,
         "products": [
             {
+                "id": 1,
                 "name": "DualSense Wireless Controller",
                 "description": "",
                 "category": "Electronics",
@@ -12,6 +13,7 @@
                 "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81p3pqhCrBm4zrv87EKNo2uthdDyuDQH18nm2rUgswXVfg1mrdB-6-QJNqvQEr3MvhoYqulw7xYe8kC_bNFjhZbgEuJK5Q=s2560"
             },
             {
+                "id": 2,
                 "name": "DualSense Charging Station",
                 "description": "",
                 "category": "Electronics",
@@ -20,6 +22,7 @@
                 "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81omGMyVLZfSN4jn_CKVt05j5W4mv5r942Y6GUPXFeMqTkG-upby2H7x5qZ1yG4JqOloXdXdDEaCdnM8H6Dh7mKft2DP=s2560"
             },
             {
+                "id": 3,
                 "name": "PULSE 3D Wireless Headset",
                 "description": "",
                 "category": "Electronics",
@@ -28,6 +31,7 @@
                 "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9La9Y_G9Uo-IAawgziIVa6Jy7KE_M4hjKOy_PX5kj1j9fe19JD05nCcq-JSZNNvvDdElt2OqpBk__hoghy-x6EN3kRw=s2560"
             },
             {
+                "id": 4,
                 "name": "Playstation 5 Camera",
                 "description": "",
                 "category": "Electronics",
@@ -36,14 +40,14 @@
                 "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rMirEO0vgNmrFYp24wwbOxpmpVNTRlPmcet3gAJ5AweT6ue3E-VQMj_x9CAO9CCznJEMHHajUwcaMBzqcH03P4mAC4vg=s2560"
             },
             {
-                "name": "Playstation 5 Camera",
+                "id": 5,
+                "name": "Playstation 5 Remote",
                 "description": "",
                 "category": "Electronics",
                 "price": 24.99,
                 "quantity": 5,
                 "imageURL": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qLtCMj1PxjxlMlnQTF9ZHVNUyMYfGzIiygmurFPa6tieMLV7BbHsr2KCmHhbBp_6M7ensyM6FwJK8oabBC_TZ2j28apg=s2560"
             }
-
         ]
     }
 }
